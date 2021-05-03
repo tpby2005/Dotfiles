@@ -1,0 +1,33 @@
+window:
+        padding:
+                x: 15
+                y: 15
+cursor:
+        style: Beam
+# BEGIN ACE
+colors:
+  primary:
+    background: '#121c1b'
+    foreground: '#b3baba'
+  cursor:
+    text:       '#121c1b'
+    cursor:     '#b3baba'
+  normal:
+    black:      '#121c1b'
+    red:        '#3C6546'
+    green:      '#4C4F4F'
+    yellow:     '#616562'
+    blue:       '#8C6E67'
+    magenta:    '#708A68'
+    cyan:       '#878C79'
+    white:      '#b3baba'
+  bright:
+    black:      '#7d8282'
+    red:        '#3C6546'
+    green:      '#4C4F4F'
+    yellow:     '#616562'
+    blue:       '#8C6E67'
+    magenta:    '#708A68'
+    cyan:       '#878C79'
+    white:      '#b3baba'
+# END ACE
